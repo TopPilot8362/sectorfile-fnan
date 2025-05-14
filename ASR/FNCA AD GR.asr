@@ -1,12 +1,12 @@
 // ##################################################################
-//                 VATSSA | FIR FNAN | ASR | FNLU AD GR
+//                 VATSSA | FIR FNAN | ASR | FNCA AD GR
 // ##################################################################
 
 // Version v0.1
-// Update Date 28/08/2024
+// Update Date 14/02/2025
 
 // Changelog
-// v0.1 | Added Header
+// v0.1 | Added ASR
 
 // ##################################################################
 //                 SETTINGS
@@ -15,8 +15,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Geo:FNLU Groundlayout:
-Regions:FNLU Groundlayout:polygon
+SECTORFILE:
+SECTORTITLE:
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -28,12 +28,12 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:22.50000
+DisplayRotation:91.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-8.859709:13.207238:-8.835977:13.251088
-PLUGIN:Ground Radar plugin:AirportElevation:238
+WINDOWAREA:-5.604108:12.173346:-5.588918:12.201413
+PLUGIN:Ground Radar plugin:AirportElevation:66
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:FNLU
+PLUGIN:Ground Radar plugin:GroundMode:FNCA
 PLUGIN:TopSky plugin:HideMapData:ICAO
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:FNLU
+PLUGIN:TopSky plugin:ShowMapData:FNCA

@@ -216,6 +216,15 @@ Window_APP_AltFilter=5238
 
 AppPath=FNLU:FNLU 23:S008.51.17.521:E013.14.14.438:233:L:232:3.0
 
+[FNCA]
+Airport_Elevation=66
+Airport_Radius=3
+
+Window_APP=1,10,600,500,250
+Window_APP_Rotation=22.5
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5066
 
 [FNBJ]
 Airport_Elevation=551
