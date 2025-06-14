@@ -1,6 +1,8 @@
 {
 	"Name": "FNAN Luanda FIR",
-	"Composites": [
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fnan/refs/heads/main/vATIS/FNAN.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Dr Antonio Agostinho Neto",
 			"Identifier": "FNBJ",
