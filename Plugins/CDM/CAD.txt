@@ -1,0 +1,4 @@
+##----- Capacity Availability Document -----##
+#--- VATSSA Luanda (FNAN) ---#
+FNBJ,12
+FNLU,6
