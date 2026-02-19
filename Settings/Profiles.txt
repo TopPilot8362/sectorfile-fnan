@@ -15,6 +15,10 @@ PROFILE:FHSH_TWR:50:4
 ATIS2:$radioname
 ATIS3:Welcome to Angola, part of Sub-Saharan Africa Division (SSA)
 ATIS4:Visit us at vatssa.com
+PROFILE:FNBJ_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Angola, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
 PROFILE:FNBG_I_TWR:50:4
 ATIS2:$radioname
 ATIS3:Welcome to Angola, part of Sub-Saharan Africa Division (SSA)
