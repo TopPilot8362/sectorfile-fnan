@@ -1,7 +1,7 @@
 {
 	"Name": "FNAN Luanda FIR",
 	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fnan/refs/heads/main/vATIS/FNAN.json",
-	"updateSerial": 2025061201,
+	"updateSerial": 2026021901,
 	"stations": [
 		{
 			"Name": "Dr Antonio Agostinho Neto",
@@ -40,14 +40,14 @@
 					"AirportConditions": "RUNWAY 06R IN USE. EXPECT ILS DME Y APPROACH.",
 					"Notams": null,
 					"ArbitraryText": null,
-					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]."
 				},
 				{
 					"Name": "RWY 24L",
 					"AirportConditions": "RUNWAY 24L IN USE. EXPECT ILS DME Y APPROACH.",
 					"Notams": null,
 					"ArbitraryText": null,
-					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
+					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]."
 				}
 			],
 			"AirportConditionDefinitions": [],
